@@ -5,3 +5,7 @@ square <- function(x){  ## square a number
 double <- function(x){ ## multiple number by two
   return(2*x)
 }
+
+multiply <- function(X,y){
+  return(x*y)
+}
